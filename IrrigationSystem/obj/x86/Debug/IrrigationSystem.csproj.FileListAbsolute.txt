@@ -1,0 +1,59 @@
+c:\users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.exe
+c:\users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.pdb
+c:\users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\bin\Debug\ZedGraph.dll
+c:\users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.exe
+c:\users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.pdb
+C:\Users\user\documents\visual studio 2010\Projects\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ASUS\项目\上位机项目\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.exe
+C:\Users\user\Documents\ASUS\项目\上位机项目\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.LSData.resources
+C:\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.exe
+C:\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.pdb
+C:\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.exe
+C:\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.pdb
+C:\IrrigationSystem\IrrigationSystem\bin\Debug\ZedGraph.dll
+C:\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.csprojResolveAssemblyReference.cache
+C:\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Form1.resources
+C:\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.LSData.resources
+C:\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Properties.Resources.resources
+C:\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.exe
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.pdb
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.exe
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.pdb
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Form1.resources
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.LSData.resources
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Properties.Resources.resources
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.exe.config
+C:\Users\user\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\IrisSkin2.dll
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.exe.config
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.exe
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.pdb
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.exe
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.pdb
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\IrisSkin2.dll
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Form1.resources
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.LSData.resources
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\IrrigationSystem\IrrigationSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.exe.config
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.exe
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.pdb
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Form1.resources
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.LSData.resources
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.Properties.Resources.resources
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\obj\x86\Debug\IrrigationSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.exe
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\bin\Debug\IrrigationSystem.pdb
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\作品\IrrigationSystem\IrrigationSystem\bin\Debug\IrisSkin2.dll
